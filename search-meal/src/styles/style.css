@@ -1,0 +1,30 @@
+@import "meal-list.css";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+    width: 100%;
+}
+
+main {
+    width: 100%;
+    margin: auto;
+}
+
+footer{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    padding: 20px;
+    color: white;
+    letter-spacing: 1px;
+    background-color: #112031;
+    text-align: center;
+    display: block;
+}
